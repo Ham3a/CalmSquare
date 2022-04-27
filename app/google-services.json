@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "102384562274",
+    "project_id": "calmsquare-f5393",
+    "storage_bucket": "calmsquare-f5393.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102384562274:android:e78b86b034f3b25cbf213b",
+        "android_client_info": {
+          "package_name": "com.example.calmsquare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102384562274-tuo1vreie01u3kf0n9ddqmdpi825fgou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRlZ-KAe8RhZ1XrG429cmzdXkonsy3Kaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102384562274-tuo1vreie01u3kf0n9ddqmdpi825fgou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
